@@ -28,5 +28,5 @@ class Cliente:public Persona{
 
 
 };
-
+//
 #endif // CLIENTE_H_INCLUDED
