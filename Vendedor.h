@@ -5,6 +5,7 @@
 #include "Cliente.h"
 #include "archivo_cliente.h"
 #include "manager_vendedor.h"
+//
 
 class Vendedor_menu{
 
