@@ -7,7 +7,7 @@
 #include <cstring>
 #include "archivo_producto.h"
 #include "producto.h"
-
+//
 class ManagerProducto{
 
 public:
